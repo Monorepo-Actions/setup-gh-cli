@@ -1,3 +1,11 @@
-# Setup GitHub CLI Action
+# `setup-gh-cli`
 
-A GitHub action to setup GitHub CLI.
+> TODO: description
+
+## Usage
+
+```
+const setupGhCli = require('setup-gh-cli');
+
+// TODO: DEMONSTRATE API
+```
